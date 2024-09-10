@@ -6,7 +6,7 @@ Welcome to the **Little Lemon Restaurant** website repository! This project was 
 
 ## Live Demo
 
-Take a look at the live site! [Live Demo](https://littlelemon.kulembetov.vercel.app/)
+Take a look at the live site! [Live Demo](https://meta-frontend-capstone-bay.vercel.app/)
 
 ## Key Features
 
